@@ -34,7 +34,7 @@ categories: [net-neutrality]
 
 -- Lifehacker, [Una Introducción a la Neutralidad de la Red: Qué es, Qué significa para ti, y Qué puedes hacer al respecto](http://lifehacker.com/5720407/an-introduction-to-net-neutrality-what-it-is-what-it-means-for-you-and-what-you-can-do-about-it)
 
->Hoy, Mozilla presentó formalmente una petición a la FCC para tomar un nuevo camino. Le estamos pidiendo a la FCC que modernice su entendimiento de los servicios de acceso a Internet, y que aplique su autoridad legal sobre los proveedores de servicio de Internet de una manera consistente y completa. Con nuestra propuesta, la FCC será capaz de cambiar su atención de cuestiones de autoridad de una vez por todas, y centrarse en la adopción de reglas claras sobre la prohibición de bloqueos y discriminación online.
+>Hoy, Mozilla presentó formalmente una petición a la FCC para tomar un nuevo camino. Le estamos pidiendo a la FCC que modernice su entendimiento de los servicios de acceso a Internet, y que aplique su autoridad legal sobre los proveedores de servicio de Internet de una manera consistente y completa. Con nuestra propuesta, la FCC será capaz de cambiar su atención sobre cuestiones de autoridad de una vez por todas, y centrarse en la adopción de reglas claras sobre la prohibición de bloqueos y discriminación online.
 
 --[Protegiendo la Neutralidad de la Red y una Internet Abierta](https://blog.mozilla.org/netpolicy/2014/05/05/protecting-net-neutrality-and-the-open-internet/)
 
