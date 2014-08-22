@@ -7,101 +7,101 @@ categories: [net-neutrality]
 <script src="{{site.baseurl}}/js/make-api.js"></script>
 <script src="{{site.baseurl}}/js/makeGallery.js"></script>
 
-# Resource Library 
+# Biblioteca de Recursos 
 
-## Understanding Net Neutrality and Related Issues
+## Entendiendo la Neutralidad de la Red y temas afines
 
->The core principle of net neutrality is a simple one: that all traffic (data) traveling across the internet should be treated the same at each stage of the process. 
+>El principio central de la Neutralidad de la Red es simple: todo el tráfico (datos) que viaja por Internet debería ser tratado de la misma forma en cada etapa del proceso. 
 
---The Guardian, [Net neutrality: what is it and why does it matter?](http://www.theguardian.com/technology/2014/may/14/net-neutrality-fcc-what-is-it)
+--The Guardian, [Neutralidad de la Red: ¿qué es y por qué importa?](http://www.theguardian.com/technology/2014/may/14/net-neutrality-fcc-what-is-it)
 
 <div class="attribution">
 <a href="http://thenextweb.com/us/2010/08/19/riaa-speaks-out-against-net-neutrality-again/"><img src="http://cdn1.tnwcdn.com/files/2010/08/net_neutrality.jpg" width="300px"></a>
 
-<p>Image via <a href="http://thenextweb.com/us/2010/08/19/riaa-speaks-out-against-net-neutrality-again">The Next Web</a>
+<p>Imagen vía <a href="http://thenextweb.com/us/2010/08/19/riaa-speaks-out-against-net-neutrality-again">The Next Web</a>
 </p>
 </div>
 
->In short: the FCC would allow network owners (your Verizons, Comcasts, etc.) to create Internet "fast lanes" for companies (Disney, The Atlantic) that pay them more. For Internet activists, this directly violated the principle of net neutrality, which has been a hot-button issue in Silicon Valley for a long time. 
+>En resumen: la FCC permitiría a los dueños de las redes (Verizon, Comcast, etc.) crear "carriles rápidos" de Internet para compañías (Disney, The Atlantic) que paguen más. Para los activistas de Internet, esto viola directamente el principio de Neutralidad de la Red, que ha sido un tema caliente en Silicon Valley por mucho tiempo. 
 
--- The Atlantic, [Net Neutrality: A Guide to (and History of) a Contested Idea](http://www.theatlantic.com/technology/archive/2014/04/the-best-writing-on-net-neutrality/361237/)
+-- The Atlantic, [Neutralidad de la Red: Una Guía sobre (e Historia de) una idea controvertida](http://www.theatlantic.com/technology/archive/2014/04/the-best-writing-on-net-neutrality/361237/)
 
->Protecting net neutrality is a hard problem, with no easy solutions.  It’s going to take a variety of actions and ongoing vigilance.
+>Proteger la neutralidad de la red es un problema difícil, sin soluciones fáciles. Tomará una variedad de acciones y vigilancia continua.
 
--- Electronic Frontier Foundation, [Net Neutrality](https://www.eff.org/issues/net-neutrality)
+-- Electronic Frontier Foundation, [Neutralidad de la Red](https://www.eff.org/issues/net-neutrality)
 
->Every web site (whether it's Google, Netflix, Amazon, or UnknownStartup.com) should all be treated the same when it comes to giving users the bandwidth to reach the internet-connected services they prefer. Your electric company has no say over how you use your electricity—they only get to charge you for providing the electricity. Net neutrality aims to do something similar with your internet pipes.
+>Cada sitio web (ya sea Google, Netflix, Amazon, o StartupDesconocida.com) deberían recibir el mismo trato cuando hablamos de darles a los usuarios la banda ancha para llegar a los servicios por Internet que prefieran. Tu compañía eléctrica no tiene nada qué decir sobre cómo utilizas tu electricidad —tan sólo pueden cobrarte por dotarte de electricidad. La Neutralidad de la Red tiene como objetivo hacer algo similar con tus tuberías de Internet.
 
--- Lifehacker, [An Introduction to Net Neutrality: What It Is, What It Means for You, and What You Can Do About It](http://lifehacker.com/5720407/an-introduction-to-net-neutrality-what-it-is-what-it-means-for-you-and-what-you-can-do-about-it)
+-- Lifehacker, [Una Introducción a la Neutralidad de la Red: Qué es, Qué significa para ti, y Qué puedes hacer al respecto](http://lifehacker.com/5720407/an-introduction-to-net-neutrality-what-it-is-what-it-means-for-you-and-what-you-can-do-about-it)
 
->Today, Mozilla formally filed a request with the FCC to take a new path forward. We are asking the FCC to modernize its understanding of Internet access services, and apply its statutory authority for Internet data delivery services in a consistent and complete way. With our proposal, the FCC would be able to shift its attention away from authority questions once and for all, and focus instead on adopting clear rules prohibiting blocking and discrimination online.
+>Hoy, Mozilla presentó formalmente una petición a la FCC para tomar un nuevo camino. Le estamos pidiendo a la FCC que modernice su entendimiento de los servicios de acceso a Internet, y que aplique su autoridad legal sobre los proveedores de servicio de Internet de una manera consistente y completa. Con nuestra propuesta, la FCC será capaz de cambiar su atención de cuestiones de autoridad de una vez por todas, y centrarse en la adopción de reglas claras sobre la prohibición de bloqueos y discriminación online.
 
---[Protecting Net Neutrality and the Open Internet](https://blog.mozilla.org/netpolicy/2014/05/05/protecting-net-neutrality-and-the-open-internet/)
+--[Protegiendo la Neutralidad de la Red y una Internet Abierta](https://blog.mozilla.org/netpolicy/2014/05/05/protecting-net-neutrality-and-the-open-internet/)
 
-Internet Citizens: Defend Net Neutrality
+Ciudadanos de Internet: Defiendan la Neutralidad de la Red
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/wtt2aSV8wdw" frameborder="0" allowfullscreen></iframe>
 
-Last Week Tonight with John Oliver: Net Neutrality (HBO)
+Last Week Tonight con John Oliver: Neutralidad de la Red (HBO)
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/fpbOEoRrHyU" frameborder="0" allowfullscreen></iframe>
 
-##Actions on the policies around Net Neutrality
+##Acciones sobre las políticas en torno a la Neutralidad de la Red
 
->In its comments on Monday, the Internet Association criticized the possibility of ISPs charging content providers "for enhanced or prioritized access" and called for equal Internet traffic rules for both wired and wireless networks.
+>En sus comentarios el lunes, la Asociación de Internet criticaba la posibilidad de que los proveedores de Internet les cobren a los proveedores de contenido "por un acceso mejor o priorizado" y pidió tanto a las redes cableadas e inalámbricas, reglas iguales de tráfico de Internet.
 
--- Reuters, [U.S. web companies press demands for net neutrality with FCC] (http://www.reuters.com/article/2014/07/14/us-usa-internet-neutrality-idUSKBN0FJ0VP20140714)
+-- Reuters, [Compañías web de Estados Unidos presentan demandas a la FCC por la Neutralidad de la Red] (http://www.reuters.com/article/2014/07/14/us-usa-internet-neutrality-idUSKBN0FJ0VP20140714)
 
->The Commission must ensure that the Internet continues to be open and neutral.
+>La Comisión debe asegurar que Internet continue siendo abierto y neutral.
 
--- [Comments of the Internet Association submitted to the FCC](http://internetassociation.org/wp-content/uploads/2014/07/Comments.pdf)
+-- [Observaciones de la Asociación de Internet presentadas a la FCC](http://internetassociation.org/wp-content/uploads/2014/07/Comments.pdf)
 
->Rights of free speech, and the free flow of information, are central to our society and economy -- and the principle of net neutrality gives every American an equal and meaningful opportunity to participate in both.
+>Los derechos de libertad de expresión, y el libre flujo de información, son centrales en nuestra sociedad y economía -- y el principio de Neutralidad de la Red le da a cada ciudadano una oportunidad equitativa y significativa de participar en ambos.
 
--- [Official White House response on Net Neutrality] (https://petitions.whitehouse.gov/petition/restore-net-neutrality-directing-fcc-classify-internet-providers-common-carriers/5CWS1M4P)
+-- [Respuesta Oficial de la Casa Blanca sobre la Neutralidad de la Red] (https://petitions.whitehouse.gov/petition/restore-net-neutrality-directing-fcc-classify-internet-providers-common-carriers/5CWS1M4P)
 
->Creativity, innovation and a free and open marketplace are all at stake in this fight.
+>La creatividad, la innovación y un mercado libre y abierto se encuentran en riesgo en esta lucha.
 
--- [Google's statement on Net Neutrality] (https://www.google.com/help/netneutrality_letter.html)
+-- [La declaración de Google sobre la Neutralidad de la Red] (https://www.google.com/help/netneutrality_letter.html)
 
-## Wikipedia Articles on Related Technologies and Policies
+## Artículos en Wikipedia sobre Tecnologías y Políticas relacionadas
 
->There has been extensive debate about whether net neutrality should be required by law, particularly in the United States. Debate over the issue of net neutrality predates the coining of the term. Advocates of net neutrality such as Lawrence Lessig have raised concerns about the ability of broadband providers to use their last mile infrastructure to block Internet applications and content (e.g. websites, services, and protocols), and even to block out competitors.
+>Ha habido un largo debate sobre si la Neutralidad de la Red debe ser requerida por la ley, particularmente en los Estados Unidos. El debate sobre la Neutralidad de la Red es anterior a la acuñación del término. Los defensores de la Neutralidad de la Red, como Lawrence Lessig han planteado preocupaciones sobre la capacidad de los proveedores de banda ancha de usar su infraestructura de última milla para bloquear aplicaciones y contenido de Internet (ej. sitios web, servicios y protocolos), e incluso bloquear a los competidores.
 
---[Net Neutrality](https://en.wikipedia.org/wiki/Network_neutrality)
+--[Neutralidad de la Red](https://en.wikipedia.org/wiki/Network_neutrality)
 
->On 23 April 2014, the FCC is reported to be considering a new rule that will permit Internet service providers to offer content providers a faster track to send content, thus reversing their earlier net neutrality position.
+>El 23 de Abril del 2014, se informa que la FCC está considerando un nuevo reeglamento que permitirá a los proveedores de Internet ofrecer a los proveedores de contenido una vía más rápida para mandar su contenido, revirtiendo así su posición anterior sobre la neutralidad de la red.
 
-[Federal Communitcations Commission](http://en.wikipedia.org/wiki/Federal_Communications_Commission)
+[FCC: Comisión Federal de Comunicaciones](http://en.wikipedia.org/wiki/Federal_Communications_Commission)
 
->A common carrier in common law countries (corresponding to a public carrier in civil law systems,[1] usually called simply a carrier) is a person or company that transports goods or people for any person or company and that is responsible for any possible loss of the goods during transport. 
+>Una empresa transportista en los países de derecho común,[1] (usualmente llamado simplemente carrier o transportista) es una persona o compañía que transporta mercancías o personas para una persona o compañía, que es responsable por cualquier pérdida posible de la mercadería durante el transporte. 
 
---[Common carrier](https://en.wikipedia.org/wiki/Common_carrier)
+--[Carrier](https://en.wikipedia.org/wiki/Common_carrier)
 
->Data discrimination is the selective filtering of information by a service provider. 
+>Discriminación de datos es el filtrado selectivo de información por un proveedor de servicio. 
 
---[Data discrimination](https://en.wikipedia.org/wiki/Data_discrimination)
+--[Discriminación de datos](https://en.wikipedia.org/wiki/Data_discrimination)
 
->Deep Packet Inspection... is a form of computer network packet filtering that examines the data part (and possibly also the header) of a packet as it passes an inspection point, searching for protocol non-compliance, viruses, spam, intrusions, or defined criteria to decide whether the packet may pass or if it needs to be routed to a different destination, or, for the purpose of collecting statistical information. 
+>Inspección Profunda de Paquetes... es una forma de filtrado de paquetes de red de computadoras que examina la parte de datos (y posiblemente el encabezado también) de un paquete a su paso por un punto de inspección, en busca de incumplimientos de protocolo, virus, spam, intrusiones, o criterios definidos para decidir si el paquete puede pasar o si necesita ser direccionado a un destino diferente, o con el propósito de recolectar información estadísica. 
 
---[Deep packet inspection](https://en.wikipedia.org/wiki/Deep_packet_inspection)
+--[Inspección profunda de paquetes](https://en.wikipedia.org/wiki/Deep_packet_inspection)
 
->With regard to a mobile network operator (MNO, or operator), the term dumb pipe, or dumb network, refers to an operator’s network being used simply to transfer bytes between the customer’s device and the Internet. The use of the term “dumb” refers to the inability of the operator to restrict services and applications to its own portal and primarily just provide simple bandwidth and network speed.
+>Con respecto a un operador de red móvil (MNO, u operador), el término tubería tonta, o red tonta, se refiere a la red de un operador que está siendo utilizada para simplemente transmitir bytes entre el dispositivo del cliente e Internet. El uso del término "tonta" se refiere a la imposibilidad del operador de restringir los servicios y aplicaciones a su propio portal y principalmente sólo proporcionar simple ancho de banda y velocidad.
 
---[Dumb pipe](https://en.wikipedia.org/wiki/Dumb_pipe)
+--[Tubería tonta](https://en.wikipedia.org/wiki/Dumb_pipe)
 
->The end-to-end principle states that application-specific functions ought to reside in the end hosts of a network rather than in intermediary nodes – provided they can be implemented "completely and correctly" in the end hosts. 
+>El principio de extremo a extremo afirma que las funciones específicas de las aplicaciones deben residir en los hosts finales de una red en vez de en nodos intermedios – siempre que puedan ser implementadas "completa y correctamente" en los hosts finales. 
 
---[End-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle)
+--[Principio de extremo a extremo](https://en.wikipedia.org/wiki/End-to-end_principle)
 
->Internet censorship is the control or suppression of what can be accessed, published, or viewed on the Internet. It may be carried out by governments or by private organizations at the behest of government, regulators, or on their own initiative. Individuals and organizations may engage in self-censorship for moral, religious, or business reasons, to conform to societal norms, due to intimidation, or out of fear of legal or other consequences.
+>La censura en Internet es el control o supresión de lo que puede ser accedido, publicado, o visto en Internet. Puede ser llevada a cabo por gobiernos o por organizaciones privadas por mandato del gobierno, entes reguladores, o bajo su propia iniciativa. Los individuos y organizaciones pueden involucrarse en la autocensura por motivos morales, religiosos o de negocios, para ajustarse a las normas sociales, por intimidación o por miedo a consecuencias legales o de otro tipo.
 
---[Internet Censorship](https://en.wikipedia.org/wiki/Internet_censorship)
+--[Censura en Internet](https://en.wikipedia.org/wiki/Internet_censorship)
 
->Quality of service (QoS) is the overall performance of a telephony or computer network, particularly the performance seen by the users of the network.
+>La Calidad del Servicio (QoS) es el desempeño general de una red telefónica o de computadoras, particularmente el desempeño visto por los usuarios de la red.
 
---[Quality of service](https://en.wikipedia.org/wiki/Quality_of_service)
+--[Calidad del Servicio](https://en.wikipedia.org/wiki/Quality_of_service)
 
->Traffic shaping (also known as "packet shaping") is a computer network traffic management technique which delays some or all datagrams to bring them into compliance with a desired traffic profile. Traffic shaping is a form of rate limiting.
+>La Catalogación de Tráfico (también conocida como "catalogación de paquetes") es una técnica de gestión de tráfico de la red informática que retrasa algunos o todos los datagramas para ponerlos en conformidad con un perfil de tráfico deseado. La catalogación de tráfico es una forma de limitación de velocidad.
 
---[Traffic shaping](https://en.wikipedia.org/wiki/Traffic_shaping)
+--[Catalogación de tráfico](https://es.wikipedia.org/wiki/Traffic_shaping)
