@@ -70,7 +70,7 @@ Last Week Tonight con John Oliver: Neutralidad de la Red (HBO)
 
 --[Neutralidad de la Red](https://en.wikipedia.org/wiki/Network_neutrality)
 
->El 23 de Abril del 2014, se informa que la FCC está considerando un nuevo reeglamento que permitirá a los proveedores de Internet ofrecer a los proveedores de contenido una vía más rápida para mandar su contenido, revirtiendo así su posición anterior sobre la neutralidad de la red.
+>El 23 de Abril del 2014, se informa que la FCC está considerando un nuevo reglamento que permitirá a los proveedores de Internet ofrecer a los proveedores de contenido una vía más rápida para mandar su contenido, revirtiendo así su posición anterior sobre la neutralidad de la red.
 
 [FCC: Comisión Federal de Comunicaciones](http://en.wikipedia.org/wiki/Federal_Communications_Commission)
 
